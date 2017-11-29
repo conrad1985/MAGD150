@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# MAGD150
 
-You can use the [editor on GitHub](https://github.com/conrad1985/MAGD150/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hello, I am a Freshman at UW Whitewater studying game design. In the links below are my past labs from my first semester here with a coding program called processing. 
 
-### Markdown
+[lab01](https://github.com/conrad1985/MAGD150/blob/gh-pages/F17MAGD150LAB01_ConradMustell.pde)
+This was the first progect with the processing program which was mainly to get used to the program and how it works. It includes ellipses rectangles and points to create a city at night. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[lab03](https://github.com/conrad1985/MAGD150/blob/gh-pages/f17_magd150_lab03_conradmustell.pde)
+This was a "screen saver" that was created to get used to rounding shapes, moving them on an axis and playing with position. This piece includes ellipses, triangles, and rectangles.
 
-```markdown
-Syntax highlighted code block
+[lab04](https://github.com/conrad1985/MAGD150/blob/gh-pages/s17magd150lab04_Mustell.pde)
+For lab 04 I worked with animation as well as key pressed and mouse pressed. The theme for this piece was Pizza and by clicking the mouse or space bar, included is ellipses triangles and animation.
 
-# Header 1
-## Header 2
-### Header 3
+[lab06](https://github.com/conrad1985/MAGD150/blob/gh-pages/f17magd150lab06_mustell.pde)
+Lab 06 was a weather theme project and I chose to do a winter theme. Using points I created "falling snow" with a random placement of the points. Included is random point placement, ellipses, points, class, and arcs.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/conrad1985/MAGD150/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[lab08](https://github.com/conrad1985/MAGD150/blob/gh-pages/fall17_magd150_lab08_Mustell.pde)
+Lab 08 contained a movie poster that I created which I based off a game I wanted to make. Using different shades of pinks and multiple rectangels I had created a sunset with a tree off the the side. This was created using just rectangles. 
